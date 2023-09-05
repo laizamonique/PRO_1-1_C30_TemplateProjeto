@@ -93,7 +93,7 @@ function handleButtonPress() {
     break();
   }, 1500);*/
 
-  /*jointLink.dettach();
+*jointLink.dettach();
   setTimeout(() => {
     bridge.break();
   }, 5);*/
